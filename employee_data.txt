@@ -1,0 +1,10 @@
+20230301 | Ved | Head | Manager of Cleaning Department | 9898954217
+20230302 | Om | Accountant | Manage Business Accountant | 8945157425
+20230303 | Pratham | Factory Orders Head | Instruction Department | 8984522892
+20230304 | Parnav | Trader | Handle Stocks of Factory | 9898524452
+20230305 | Diyen | Mechanic | Repair Non-technical Defected Items | 9475124857
+20230306 | Parv Raval | Technician | Solve Technical Queries | 8945852642
+20230307 | Mayank Bagul | Security Head | Security Department | 9920457568
+20230308 | Shubham Varmora | Machine Handler 1 | Machine Handling Department | 9895547528
+20230309 | Daksh | Machine Handler 2 | Machine Handling Department | 8945486457
+20230310 | Manan | Machine Handler 4 | Machine Handling Department | 8446618187

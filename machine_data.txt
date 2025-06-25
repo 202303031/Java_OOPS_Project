@@ -1,0 +1,5 @@
+M001 | CNC Mill | Manufacturer A | Model X1 | Idle | 120 | Weekly
+M002 | 3D Printer | Manufacturer B | Model Y2 | Operating | 450 | Monthly
+M003 | Laser Cutter | Manufacturer C | Model Z3 | Idle | 80 | Quarterly
+M004 | Lathe Machine | Manufacturer D | Model L4 | Operating | 320 | Bi-Weekly
+M005 | Injection Molding Machine | Manufacturer E | Model I5 | Idle | 200 | Monthly
